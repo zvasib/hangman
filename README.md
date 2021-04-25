@@ -11,6 +11,10 @@
 
 Для запуска программы необходимо в терминале ввести: 
 ```
+gem install bundler
+
+bundle install
+
 ruby main.rb
 ```
 
