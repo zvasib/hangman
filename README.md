@@ -13,7 +13,7 @@
 ```
 bundle install
 
-ruby main.rb
+bundle exec ruby main.rb
 ```
 
 Список слов хранится в файле: data/words.txt 
